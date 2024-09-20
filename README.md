@@ -1,5 +1,5 @@
 <h1 align="center">Hiii , I'm Gania</h1>
-<h3 align="center">A student and cat lover, currently discovering web design, front and backend programming</h3>
+<h3 align="center">A student, currently discovering web design, front and backend programming</h3>
 
 - ✨ I’m currently learning **JavaScript**
 
