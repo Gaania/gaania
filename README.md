@@ -1,7 +1,7 @@
 <h1 align="center">Hiii , I'm Gania</h1>
 <h3 align="center">A student, currently discovering web design, front and backend programming</h3>
 
-- ✨ I’m currently learning **JavaScript**
+- ✨ I’m currently learning **Dart** and **Flutter**
 
 - 📫 Reach me in **vincentigania@gmail.com**
 
