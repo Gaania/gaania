@@ -23,5 +23,3 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaania&show_icons=true&locale=en&layout=compact" alt="gaania" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaania&show_icons=true&locale=en" alt="gaania" /></p>
